@@ -82,7 +82,7 @@ The system is built using core OOP concepts, making it modular, extensible, and 
 
 3. **Compile the project**:
     ```sh
-    g++ -o boutique_management main.cpp Inventory.cpp Customer.cpp Sales.cpp Report.cpp User.cpp
+    g++ -o boutique_management main.cpp 
     ```
 
 4. **Run the executable**:
