@@ -1,5 +1,9 @@
 # Boutique Management System
 
+![file (1)](https://github.com/user-attachments/assets/6c058af3-4b45-4f80-b679-e7408b1a863c)
+
+
+
 The **Boutique Management System** is an advanced application designed to streamline and enhance various aspects of boutique operations using Object-Oriented Programming (OOP) principles in C++. It offers a comprehensive suite of tools for inventory management, customer service, sales processes, and detailed reporting.
 
 ## Overview
